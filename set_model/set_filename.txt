@@ -1,2 +1,0 @@
-matrix/matrix0.txt
-output/heisen_10site_b.txt
